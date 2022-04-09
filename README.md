@@ -62,3 +62,4 @@ chown 100000:996 ./commhystory.db*
 ```
 Copy the db back to your SFOS device. Enjoy your full sms history!
 
+This script is shared without warranties. It works on my phone but might harm yours.
